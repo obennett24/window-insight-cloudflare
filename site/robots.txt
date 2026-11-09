@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://window-insight-cloudflare.pages.dev/sitemap.xml
